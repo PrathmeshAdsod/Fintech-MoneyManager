@@ -1,3 +1,9 @@
 .app-name {
     text-align: center;
+   
+}
+
+div {
+    height: 75px;
+    width: 100%;
 }
