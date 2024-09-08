@@ -20,5 +20,11 @@
 a {
   color: white;
   text-decoration: none;
-  padding:25px;
+  /*padding:25px;*/
+  /*transition: color 2s;*/
 }
+/*a:hover {
+    color: rgb(143, 54, 54);
+}*/
+
+
