@@ -1,0 +1,61 @@
+.advice-page {
+    width: 100%;
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
+    font-family: 'Arial', sans-serif;
+    text-align: center;
+  }
+  
+  .heading {
+    font-size: 36px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .subheading {
+    font-size: 18px;
+    color: #666;
+    margin-bottom: 30px;
+    line-height: 1.6;
+  }
+  
+  /* Prompt Box */
+  .prompt-box {
+    width: 100%;
+    height: 200px;
+    padding: 15px;
+    font-size: 16px;
+    border: 2px solid #ddd;
+    border-radius: 10px;
+    resize: none;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    transition: border-color 0.3s ease-in-out;
+  }
+  
+  .prompt-box:focus {
+    border-color: #333;
+    outline: none;
+  }
+  
+  /* Submit Button */
+  .submit-button {
+    background-color: #0066cc;
+    color: white;
+    padding: 12px 25px;
+    border: none;
+    border-radius: 8px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+  }
+  
+  .submit-button:hover {
+    background-color: #004999;
+  }
+  
+  
